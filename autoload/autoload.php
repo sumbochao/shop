@@ -33,7 +33,7 @@ foreach($CategoryHome as $item){
 
 
 }
-$con = mysqli_connect("localhost","root","","qlbh") ;
+$con = mysqli_connect("baitaplon.cntjprrmhj5l.us-east-2.rds.amazonaws.com","admin","12345678","qlbh") ;
 mysqli_set_charset($con,"utf8");
 
 
